@@ -1,3 +1,4 @@
+/*
 var images = [
   'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9UggsfJ2Hy6OMa9QxTWfQ_TpqwvQ7uE5u7GyQojC8w7jEs7_GqKIqFX_gJY70txxjqDo&usqp=CAU',
   'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_T2yzOHbXm6Wlf3I3Ce09Uxn7-7910S6cWXTRmUx4GTc4uDMsDJA5jmoQmsOvvLiHHT8&usqp=CAU',
@@ -16,3 +17,4 @@ function rotate() {
 }
 
 window.onload = rotate;
+*/
